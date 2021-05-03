@@ -76,11 +76,6 @@ module.exports = {
     queueConstruct.songs.push(song);
 
     const play = async (song) => {
-      const queue = message.client.queue.get(message.guild.id);
-    let afk = JSON.parse(fs.readFileSync("./afk.json", "utf8"));
-      if (!afk[message.guild.id]) afk[message.guild.id] = {
-      afk: false,
-    };
  		let stream = null; 
     if (song.url.includes("youtube.com")) {
       stream = await ytdl(song.url);
