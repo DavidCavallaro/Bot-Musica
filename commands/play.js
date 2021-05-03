@@ -30,11 +30,7 @@ module.exports = {
        	id: songInfo.videoDetails.videoId,
        	title: songInfo.videoDetails.title,
        	url: songInfo.videoDetails.video_url,
-       	img: songInfo.player_response.videoDetails.thumbnail.thumbnails[0].url,
-      	duration: songInfo.videoDetails.lengthSeconds,
-      	ago: songInfo.videoDetails.publishDate,
-      	views: String(songInfo.videoDetails.viewCount).padStart(10, ' '),
-      	req: message.author
+       	img: songInfo.player_response.videoDetails.thumbnail.thumbnails[0].url
         };
       } catch (error) {
         console.error(error);
@@ -48,12 +44,8 @@ module.exports = {
         song = {
       	id: songInfo.videoId,
       	title: Util.escapeMarkdown(songInfo.title),
-      	views: String(songInfo.views).padStart(10, ' '),
       	url: songInfo.url,
-      	ago: songInfo.ago,
-      	duration: songInfo.duration.toString(),
-      	img: songInfo.image,
-      	req: message.author
+      	img: songInfo.image
         };
       } catch (error) {
         	console.error(error);
@@ -67,7 +59,6 @@ module.exports = {
       	.setThumbnail(song.img)
       	.setColor("YELLOW")
       	.addField("Name:", song.title, true)
-      	.addField("Requested by:", song.req.tag, true)
       	.setFooter(`- Service of Chill Castle`)
       return message.channel.send(thing);
     }
@@ -126,10 +117,8 @@ module.exports = {
       let thing = new MessageEmbed()
       	.setAuthor("Song has been added to queue.")
       	.setThumbnail(song.img)
-      	.setColor("YELLOW")
+      	.setColor("YELLOW") //color
       	.addField("Name:", song.title, true)
-      	.addField("Requested by:", song.req.tag, true)
-      	.setFooter(`- Service of Chill Castle`)
       queue.textChannel.send(thing);
     };
     try {
