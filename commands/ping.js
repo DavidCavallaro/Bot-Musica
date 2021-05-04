@@ -6,5 +6,6 @@ module.exports = {
     name: 'ping',
     async run(client, message, args) {
         message.delete()
+        message.channel.send('Ping...').then(sent => {})
     }
 }
