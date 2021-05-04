@@ -4,4 +4,5 @@ const usedCommand = new Set()
 
 module.exports = {
     name: 'ping',
+    async run(client, message, args) {}
 }
