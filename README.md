@@ -13,4 +13,4 @@ Repl:
   <img src="https://contributors-img.web.app/image?repo=DavidCavallaro/Music-Bot" />
 </a>
 
-Made with JavaScript! By [@DavidCavallaro](https://github.com/DavidCavallaro)
+By [@DavidCavallaro](https://github.com/DavidCavallaro)
