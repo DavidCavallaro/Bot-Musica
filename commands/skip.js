@@ -13,7 +13,7 @@ module.exports = {
         if (serverQueue && !serverQueue.playing) {
         serverQueue.playing = true;
         serverQueue.connection.dispatcher.resume();
-        let xd = new MessageEmbed()       
+        let li = new MessageEmbed()       
         return message.channel.send("Resume.").catch(err => console.log(err));
         }
         try{
