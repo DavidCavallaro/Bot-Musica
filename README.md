@@ -1,8 +1,8 @@
 <h1 align="center"> ✨ Easy Music Bot ✨ </h1>
 <p align="center">Follow me!</p>
 
-## ✨ [Support Server](https://discord.gg/a9SHDpD)
-Got any error or any problem with the code? Join [this](https://discord.gg/a9SHDpD) server.
+## ✨ [Support Server](https://discord.com/invite/jxh2qxu)
+Got any error or any problem with the code? Join [this](https://discord.com/invite/jxh2qxu) server.
 
 ## ✨ Run the projects
 Repl:
