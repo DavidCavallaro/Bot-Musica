@@ -93,19 +93,19 @@ module.exports = {
     const dispatcher = queue.connection
       .play(ytdl(song.url, {quality: 'highestaudio', highWaterMark: 1 << 25 ,type: "opus"}))
       .on("finish", () => {
-      	const shiffed = queue.songs.shift();
+      	const sdf = queue.songs.shift();
         if (queue.loop === true) {
-          queue.songs.push(shiffed);
+          queue.songs.push(sdf);
         };
         play(queue.songs[0])
       })
       dispatcher.setVolumeLogarithmic(queue.volume / 100);
-      let thing = new MessageEmbed()
+      let asd = new MessageEmbed()
       	.setAuthor("Song has been added to queue.")
       	.setThumbnail(song.img)
       	.setColor("YELLOW") //color
       	.addField("Name:", song.title, true)
-      queue.textChannel.send(thing);
+      queue.textChannel.send(asd);
     };
     try {
       const connection = await channel.join();
