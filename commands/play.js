@@ -54,13 +54,13 @@ module.exports = {
     }
     if (serverQueue) {
      	serverQueue.songs.push(song);
-      let thing = new MessageEmbed()
+      let oof = new MessageEmbed()
       	.setAuthor("Song has been added to queue.")
       	.setThumbnail(song.img)
       	.setColor("YELLOW")
       	.addField("Name:", song.title, true)
       	.setFooter(`- Service of Chill Castle`)
-      return message.channel.send(thing);
+      return message.channel.send(oof);
     }
 
     const queueConstruct = {
