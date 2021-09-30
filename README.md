@@ -9,4 +9,4 @@ Got any error or any problem with the code? Join [this](https://discord.gg/a9SHD
 
 ## Run the projects
 
-[![Run on Repl.it](https://github.com/DavidCavallaro/Music-Bot/blob/main/replit.PNG?raw=true)](https://repl.it/github/DavidCavallaro/Wumps-Remodel)
+[![Run on Repl.it](https://github.com/DavidCavallaro/Music-Bot/blob/main/replit.PNG?raw=true)](https://repl.it/github/DavidCavallaro/Music-Bot)
