@@ -3,7 +3,7 @@
 
 <p align="center">Follow me!</p>
 
-## [Support Server]
+## Support Server
 
 Got any error or any problem with the code? Join [this](https://discord.gg/jxh2qxu) server.
 
