@@ -1,4 +1,4 @@
-Index: [Support Server](https://github.com/DavidCavallaro/Music-Bot/blob/main/CONTRIBUTING.md#pull-request-process) | [Run the projects](https://github.com/DavidCavallaro/Music-Bot/blob/main/run-the-projects) | [Contributing](https://github.com/DavidCavallaro/Music-Bot/blob/main/CONTRIBUTING.md) | [Our Standards](https://github.com/DavidCavallaro/Music-Bot/blob/main/CONTRIBUTING.md#our-standards) |  [Our Responsibilities](https://github.com/DavidCavallaro/Music-Bot/blob/main/CONTRIBUTING.md#our-responsibilities) | [Scope](https://github.com/DavidCavallaro/Music-Bot/blob/main/CONTRIBUTING.md#scope) | [Enforcement](https://github.com/DavidCavallaro/Music-Bot/blob/main/CONTRIBUTING.md#enforcement) | [Attribution](https://github.com/DavidCavallaro/Music-Bot/blob/main/CONTRIBUTING.md#attribution)
+Index: [Support Server](https://github.com/DavidCavallaro/Music-Bot/blob/main/README.md#support-server) | [Run the projects](https://github.com/DavidCavallaro/Music-Bot/blob/main/README.md#run-the-projects) | [Contributing](https://github.com/DavidCavallaro/Music-Bot/blob/main/CONTRIBUTING.md)
 
 <h1 align="center"> Easy Music Bot </h1>
 
