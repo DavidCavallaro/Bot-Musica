@@ -30,7 +30,7 @@ fs.readdir("./commands/", (err, files) => {
   });
 });
 
-const keepAlive = require('./server.js');
+const keepAlive = require('./server.js'); // online 24/7 with uptimerobot.com
 keepAlive();
 
 client.login('your_token') //Set your token
