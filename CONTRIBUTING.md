@@ -1,3 +1,5 @@
+Index: [Pull Request Process](https://github.com/DavidCavallaro#informazioni-personali) | [Curriculum](https://github.com/DavidCavallaro#curriculum) | [Our Pledge](https://github.com/DavidCavallaro#altri-progetti) | [Our Standards](https://github.com/DavidCavallaro#linguaggi-e-strumenti-che-utilizzo) |  [Our Responsibilities](https://github.com/DavidCavallaro#statistiche) | [Scope](https://github.com/DavidCavallaro#trofei) | [Enforcement](https://github.com/DavidCavallaro#contact) | [Attribution]
+
 <h1 align="center">Contributing (ENG)</h1>
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
@@ -91,4 +93,4 @@ available at [http://contributor-covenant.org/version/1/4][version]
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
 
-By [@DavidCavallaro](https://github.com/DavidCavallaro)
+By [@DavidCavallaro](https://github.com/DavidCavallaro).
