@@ -6,7 +6,7 @@ const client = new Client();
 client.commands = new Collection();
 client.queue = new Map()
 client.config = {
-	prefix: 'your_prefix' //Set your prefix
+	prefix: 'your_prefix' // Set your prefix
 }
 
 fs.readdir(__dirname + "/events/", (err, files) => {
@@ -30,7 +30,7 @@ fs.readdir("./commands/", (err, files) => {
   });
 });
 
-const keepAlive = require('./server.js'); // online 24/7 with uptimerobot.com
+const keepAlive = require('./server.js'); // Online 24/7 with uptimerobot.com
 keepAlive();
 
-client.login('your_token') //Set your token
+client.login('your_token') // Set your token
