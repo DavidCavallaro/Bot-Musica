@@ -3,9 +3,9 @@
 
 <p align="center">Follow me!</p>
 
-## [Support Server](https://discord.gg/a9SHDpD)
+## [Support Server]
 
-Got any error or any problem with the code? Join [this](https://discord.gg/a9SHDpD) server.
+Got any error or any problem with the code? Join [this](https://discord.gg/jxh2qxu) server.
 
 ## Run the projects
 
