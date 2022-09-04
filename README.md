@@ -4,7 +4,7 @@ Index: [Support Server](https://github.com/DavidCavallaro/Music-Bot/blob/main/RE
 
 ## Support Server
 
-Got any error or any problem with the code? Join [this](https://discord.gg/jxh2qxu) server.
+Got any error or any problem with the code? Join [this](https://discord.com/invite/uhPQAwTzgm) server.
 
 ## Run the projects
 
