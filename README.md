@@ -3,7 +3,6 @@ Index: [Support Server](https://github.com/DavidCavallaro/Music-Bot/blob/main/RE
 <h1 align="center"> Easy Music Bot </h1>
 
 ## Support Server
-
 Got any error or any problem with the code? Join [this](https://discord.com/invite/uhPQAwTzgm) server.
 
 ## Run the projects
