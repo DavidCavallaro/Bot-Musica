@@ -6,5 +6,7 @@ Index: [Support Server](https://github.com/DavidCavallaro/Music-Bot/blob/main/RE
 Got any error or any problem with the code? Join [this](https://discord.com/invite/uhPQAwTzgm) server.
 
 ## Run the projects
-
 [![Run on Repl.it](https://github.com/DavidCavallaro/Music-Bot/blob/main/replit.PNG?raw=true)](https://repl.it/github/DavidCavallaro/Music-Bot)
+
+## ATTENTION!
+This reposity is currently suspended.
